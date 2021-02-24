@@ -77,7 +77,7 @@ class ComposerStaticInitf837c794b7dbe84378f318fcd6f4a86a
     );
 
     public static $classMap = array (
-        'Grav\\Plugin\\MailValidatorPlugin' => __DIR__ . '/../..' . '/mail-validator.php',
+        'Grav\\Plugin\\MailValidatorPlugin' => __DIR__ . '/../..' . '/sendinblue-validator.php',
         'Normalizer' => __DIR__ . '/..' . '/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php',
     );
 

@@ -1,9 +1,9 @@
 {
-  "name": "erik-konrad/mail-validator",
+  "name": "erik-konrad/sendinblue-validator",
   "type": "grav-plugin",
   "description": "Validates if email exist in sendinblue",
   "keywords": ["plugin"],
-  "homepage": "https://github.com/erik-konrad/grav-plugin-mail-validator",
+  "homepage": "https://github.com/erik-konrad/grav-plugin-sendinblue-validator",
   "license": "MIT",
   "authors": [
     {
@@ -20,7 +20,7 @@
     "psr-4": {
       "Grav\\Plugin\\MailValidator\\": "classes/"
     },
-    "classmap":  ["mail-validator.php"]
+    "classmap":  ["sendinblue-validator.php"]
   },
   "config": {
     "platform": {

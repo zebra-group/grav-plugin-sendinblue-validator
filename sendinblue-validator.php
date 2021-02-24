@@ -8,10 +8,10 @@ use SendinBlue\Client\Api\ContactsApi;
 use SendinBlue\Client\Configuration;
 
 /**
- * Class MailValidatorPlugin
+ * Class SendinblueValidatorPlugin
  * @package Grav\Plugin
  */
-class MailValidatorPlugin extends Plugin
+class SendinblueValidatorPlugin extends Plugin
 {
     /**
      * @return array

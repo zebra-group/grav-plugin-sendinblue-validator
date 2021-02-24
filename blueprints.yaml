@@ -1,5 +1,5 @@
 name: Mail Validator
-slug: mail-validator
+slug: sendinblue-validator
 type: plugin
 version: 0.1.0
 description: Validates if a mail address exists in SendInBlue or not
@@ -7,11 +7,11 @@ icon: plug
 author:
   name: Erik Konrad
   email: erik.konrad@zebra.de
-homepage: https://github.com/zebra-group/grav-plugin-mail-validator
+homepage: https://github.com/zebra-group/grav-plugin-sendinblue-validator
 demo: http://demo.yoursite.com
 keywords: grav, plugin, etc
-bugs: https://github.com/zebra-group/grav-plugin-mail-validator/issues
-docs: https://github.com/zebra-group/grav-plugin-mail-validator/blob/develop/README.md
+bugs: https://github.com/zebra-group/grav-plugin-sendinblue-validator/issues
+docs: https://github.com/zebra-group/grav-plugin-sendinblue-validator/blob/develop/README.md
 license: MIT
 
 dependencies:
