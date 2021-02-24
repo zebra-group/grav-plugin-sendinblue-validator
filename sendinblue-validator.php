@@ -91,6 +91,7 @@ class SendinblueValidatorPlugin extends Plugin
             "status" => "mail found",
             "statuscode" => "200"
         ];
+        header('Content-Type: application/json');
         echo (json_encode($statusMessage));
         exit(200);
     }
@@ -103,6 +104,7 @@ class SendinblueValidatorPlugin extends Plugin
             "status" => "mail not found",
             "statuscode" => "404"
         ];
+        header('Content-Type: application/json');
         echo (json_encode($statusMessage));
         exit(404);
     }
