@@ -1,4 +1,4 @@
-# Mail Validator Plugin
+# SendInBlue Validator Plugin
 
 **This plugin validates if an email is in contact list in SendinBlue or not**
 
